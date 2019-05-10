@@ -46,11 +46,11 @@ var pages = {
     ["#","mt","Code","~/hack.sh"],
   ],
   "Home":[ // Index page loads at and resets to on end of search or 'esc'
-    ["https://github.com/Boettner-eric/Tiles","ba","Back","To Github","*"],
+    ["https://github.com","ba","Back","To Github","*"],
     ["~Github"], // example of reference
     ["https://gmail.com","gm","Gmail","Inboxes","google"],
-    ["https://todoist.com/app#start","td","Todoist","Tasks"],
-    ["https://pcpartpicker.com","pc","PcParts","Pcpartpicker"],
+    ["https://trello.com","td","Trello","Tasks"],
+    ["https://pcpartpicker.com","sk","PcParts","Pcpartpicker"],
     ["~News"],
     ["~Media"],
     ["~Networks"],
